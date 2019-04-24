@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dominic-j-bennett/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2019-past/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mark-d-sutton/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/samuel-t-turvey/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2019-past2/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/living-fossil/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mammals/</loc>
+    <lastmod>2019-05-01T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alexandre-antonelli/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/daniele-silvestro/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hannes-hettling/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rutger-vos/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2019-outsider/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rstats/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/supersmartr/</loc>
+    <lastmod>2019-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/others/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/eiserhardt-2018-roadmap/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alexander-zizka/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alexey-m-kozlov/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/brian-j-enquist/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christine-bacon/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dominic-bennett/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/f%C3%A9lix-forest/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/j-gordon-burleigh/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jan-t-kim/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/laura-r-botigu%C3%A9/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2018-quantifying/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/steven-dodsworth/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s%C3%B8ren-faurby/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wolf-l-eiserhardt/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2018-phylotar/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2018-restez/</loc>
+    <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/7/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/adriana-de-palma/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/alex-d-washburne/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2017-appraisal/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anthony-w-sainsbury/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/christopher-durrant/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dominic-john-bennett/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2017-evolutionarily/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/felicity-e-bedford/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gabriela-peniche/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/helen-rp-phillips/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/igor-lysenko/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/john-l-darcy/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/jonathan-w-leff/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/justin-d-silverman/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lawrence-a-david/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lawrence-n-hudson/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/louise-wong/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/noah-fierer/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/peter-d-olson/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/washburne-2017-phylogenetic/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/peniche-2017-protecting/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/samantha-ll-hill/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sara-contu/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sayan-mukherjee/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tamera-i-alhusseini/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/hudson-2017-database/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/tim-newbold/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bacteria/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biodiversity/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hazel-dormouse/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2017-treeman/</loc>
+    <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/alodie-snirc/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/angela-schaefer/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/britta-bueker/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chris-eberlein/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/hudson-2016-dataset/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bueker-2016-distribution/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dominik-begerow/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/i-lysenko/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ln-hudson/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-e-hood/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pierre-gladieux/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/s-contu/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sll-hill/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/t-newbold/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tatiana-giraud/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/population-genetics/</loc>
+    <lastmod>2016-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/argyrios-choimes/</loc>
+    <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ben-collen/</loc>
+    <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/newbold-2015-global/</loc>
+    <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luca-b%C3%B6rger/</loc>
+    <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/rebecca-a-senior/</loc>
+    <lastmod>2015-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/david-lp-correia/</loc>
+    <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hollie-booth/</loc>
+    <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/contu-2014-predicts/</loc>
+    <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hudson-2014-predicts/</loc>
+    <lastmod>2014-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2013-testing/</loc>
+    <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

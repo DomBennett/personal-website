@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T Newbold on Dominic J. Bennett</title>
+    <link>/authors/t-newbold/</link>
+    <description>Recent content in T Newbold on Dominic J. Bennett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/t-newbold/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dataset: The 2016 release of the PREDICTS database</title>
+      <link>/publication/hudson-2016-dataset/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2016-dataset/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

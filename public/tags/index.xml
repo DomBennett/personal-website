@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dominic J. Bennett</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Dominic J. Bennett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>living-fossil</title>
+      <link>/tags/living-fossil/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/living-fossil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mammals</title>
+      <link>/tags/mammals/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/mammals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rstats</title>
+      <link>/tags/rstats/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/rstats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supersmartr</title>
+      <link>/tags/supersmartr/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/supersmartr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bacteria</title>
+      <link>/tags/bacteria/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/bacteria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biodiversity</title>
+      <link>/tags/biodiversity/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/biodiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hazel-dormouse</title>
+      <link>/tags/hazel-dormouse/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/hazel-dormouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>population-genetics</title>
+      <link>/tags/population-genetics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

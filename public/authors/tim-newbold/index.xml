@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Newbold on Dominic J. Bennett</title>
+    <link>/authors/tim-newbold/</link>
+    <description>Recent content in Tim Newbold on Dominic J. Bennett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/tim-newbold/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The database of the Predicts (Projecting responses of ecological diversity in changing terrestrial systems) project</title>
+      <link>/publication/hudson-2017-database/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2017-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global effects of land use on local terrestrial biodiversity</title>
+      <link>/publication/newbold-2015-global/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/newbold-2015-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
+      <link>/publication/hudson-2014-predicts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2014-predicts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

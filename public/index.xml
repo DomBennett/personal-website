@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominic J. Bennett</title>
+    <link>/</link>
+    <description>Recent content on Dominic J. Bennett</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time.</title>
+      <link>/publication/bennett-2019-past/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/bennett-2019-past/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Past is a Foreign Country: The evolutionary potential of &#34;living fossils&#34;.</title>
+      <link>/publication/bennett-2019-past2/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/bennett-2019-past2/</guid>
+      <description>
+
+&lt;h2 id=&#34;presentation-to-the-royal-society&#34;&gt;Presentation to the Royal Society&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Part of the special meeting &lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2019/01/the-past-is-a-foreign-country/&#34; target=&#34;_blank&#34;&gt;&amp;ldquo;The Past is a Foreign Country&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The presentation slides can be downloaded via FigShare, &lt;a href=&#34;https://figshare.com/articles/The_Past_is_a_Foreign_Country_The_evolutionary_potential_of_living_fossils_/8035400&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;An audio recording of the presentation is available &lt;a href=&#34;http://downloads.royalsociety.org/events/2019/01/the-past-is-a-foreign-country/Bennett.MP3&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>outsider: Install and Run Programs, Outside of R, Inside of R</title>
+      <link>/publication/bennett-2019-outsider/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2019-outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A roadmap for global synthesis of the plant tree of life</title>
+      <link>/publication/eiserhardt-2018-roadmap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/eiserhardt-2018-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the living fossil concept</title>
+      <link>/publication/bennett-2018-quantifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2018-quantifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
+      <link>/publication/bennett-2018-phylotar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2018-phylotar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restez: Create and Query a Local Copy of GenBank in R</title>
+      <link>/publication/bennett-2018-restez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2018-restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An appraisal of the ‘Living Fossil’Concept</title>
+      <link>/publication/bennett-2017-appraisal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2017-appraisal/</guid>
+      <description>
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Freely available&lt;/strong&gt; via &lt;a href=&#34;https://spiral.imperial.ac.uk/handle/10044/1/68534&#34; target=&#34;_blank&#34;&gt;Imperial College London&amp;rsquo;s Spiral repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;details&#34;&gt;Details&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt; &lt;a href=&#34;https://www.imperial.ac.uk/people/m.sutton&#34; target=&#34;_blank&#34;&gt;Mark Sutton&lt;/a&gt; and &lt;a href=&#34;https://www.zsl.org/science/users/samuel-turvey&#34; target=&#34;_blank&#34;&gt;Sam Turvey&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Years&lt;/strong&gt; 2013 - 2017&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Affiliations&lt;/strong&gt; Imperial College London and Zoological Society of London&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funder&lt;/strong&gt; Natural Environment Research Council (Great Britain)&lt;/p&gt;
+
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+
+&lt;p&gt;Although the term ‘living fossil’ has been around for over 150 years, it remains scientifically undefined and contentious. Generally, it refers to any taxon that is evolutionarily unique, species-poor and exhibits traits closely resembling those of extinct taxa. This interpretation, however, is not universal. Other interpretations of the term include species that are evolutionary dead-ends, taxa that were first discovered in the fossil record and/or lineages that have undergone no (sic) morphological change. In addition to the confusion over definition, many have argued against the concept on the grounds that it is either not feasible, that it may not delineate a true category of biodiversity or that it recalls defunct Victorian scientific ideas. Despite these objections, it is evident that the concept of the living fossil can play an important role in our understanding of evolution over large timescales. In recent years there has been renewed interest in the concept of the living fossil thanks to the development of genomic techniques that are revealing previously hidden rates of molecular change in well-known living fossils. Additionally, many species that have been described as living fossils are threatened with extinction and there exists a risk that their unique evolutionary history is being lost. In this thesis, I attempt a re-appraisal of the living fossil concept. Firstly I test whether the concept of the living fossil can be made scientifically sound. Secondly I develop a new quantitative definition of the living fossil. I show that the concept is robust as it can be used to distinguish lineages that have experienced different rates of evolution. In addition I demonstrate that it is possible to devise a quantitative definition, which I use to identify living fossils and their traits across a wide range of taxonomic groups.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily distinct “living fossils” require both lower speciation and lower extinction rates</title>
+      <link>/publication/bennett-2017-evolutionarily/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2017-evolutionarily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets</title>
+      <link>/publication/washburne-2017-phylogenetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/washburne-2017-phylogenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting free-living dormice: molecular identification of cestode parasites in captive dormice (Muscardinus avellanarius) destined for reintroduction</title>
+      <link>/publication/peniche-2017-protecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/peniche-2017-protecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The database of the Predicts (Projecting responses of ecological diversity in changing terrestrial systems) project</title>
+      <link>/publication/hudson-2017-database/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2017-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman: an R package for efficient and intuitive manipulation of phylogenetic trees</title>
+      <link>/publication/bennett-2017-treeman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2017-treeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset: The 2016 release of the PREDICTS database</title>
+      <link>/publication/hudson-2016-dataset/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2016-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution and population structure of the anther smut M icrobotryum silenes-acaulis parasitizing an arctic--alpine plant</title>
+      <link>/publication/bueker-2016-distribution/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bueker-2016-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global effects of land use on local terrestrial biodiversity</title>
+      <link>/publication/newbold-2015-global/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/newbold-2015-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
+      <link>/publication/contu-2014-predicts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/contu-2014-predicts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
+      <link>/publication/hudson-2014-predicts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/hudson-2014-predicts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
+      <link>/publication/bennett-2013-testing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2013-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

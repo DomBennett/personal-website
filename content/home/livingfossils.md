@@ -27,6 +27,7 @@ My entire PhD thesis is available [here]({{< ref "/publication/bennett-2017-appr
 and the slides and recording of my Royal Society presentation -- that gives a
 brief overview of many of thesis -- can be downloaded 
 [here]({{< ref "/publication/bennett-2019-past2" >}}).
+<br><br><br><br><br><br><br>
 
 ----
 

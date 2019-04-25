@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 20
+weight = 40
 
 title = "Towards open, modular, phylogenetic pipelines in R"
 

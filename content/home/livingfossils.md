@@ -27,6 +27,15 @@ My entire PhD thesis is available [here]({{< ref "/publication/bennett-2017-appr
 and the slides and recording of my Royal Society presentation -- that gives a
 brief overview of many of thesis -- can be downloaded 
 [here]({{< ref "/publication/bennett-2019-past2" >}}).
+<br><br>
+
+<div>
+  <p style="width:100%;align=bottom">
+  <img src="https://palaeo-electronica.org/content/images/750/figure1.jpg" style="float:left;margin-right:10px" />
+  <sup>Identifying likely living fossils with the "Evolutionary Performance Index" (EPI), see <a href="https://doi.org/10.26879/750">Quantifying the Living Fossil Concept</a></sup>
+  </p>
+</div>
+
 <br><br><br><br><br><br><br>
 
 ----

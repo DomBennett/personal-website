@@ -1,5 +1,5 @@
 +++
-title = "The Past is a Foreign Country: The evolutionary potential of \"living fossils\"."
+title = "Conference Presentation: The evolutionary potential of \"living fossils\"."
 date = 2019-05-01
 authors = ["Dominic J Bennett"]
 publication_types = ["0"]

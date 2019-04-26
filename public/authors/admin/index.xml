@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/author/admin/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+      <description>I&amp;rsquo;m a post-doc in the Antonelli Lab at the University of Gothenburg, Sweden, working on pipelines in R for phylogenetic analysis. As part of this work I&amp;rsquo;m converting the program SUPERSMART to R, a project called &amp;ldquo;supersmartR&amp;rdquo;. Prior to this position, I did a PhD at Imperial College London and the Zoological Society of London where I attempted to re-appraise the &amp;ldquo;living fossil&amp;rdquo; concept. In my work, I particularly enjoy developing software and have created a range of R and python packages for munging and analysing biological data (from DNA to species records).</description>
     </item>
     
   </channel>

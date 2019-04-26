@@ -94,4 +94,17 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a post-doc in the [Antonelli Lab](http://antonelli-lab.net/) at the
+[University of Gothenburg](https://www.gu.se/english), Sweden, working on
+pipelines in [R](https://en.wikipedia.org/wiki/R_(programming_language)) for [phylogenetic analysis](https://en.wikipedia.org/wiki/Phylogenetic_tree). As
+part of this work I'm converting the program
+[SUPERSMART](http://supersmart-project.org/) to R, a project called 
+["supersmartR"](#supersmartr).
+Prior to this position, I did a PhD at
+[Imperial College London](https://www.imperial.ac.uk/) and the
+[Zoological Society of London](https://www.zsl.org/science) where I attempted
+to re-appraise the ["living fossil"](#livingfossils) concept. In my work, I
+particularly enjoy developing software and have created a range of R and
+[python](https://en.wikipedia.org/wiki/Python_(programming_language))
+packages for munging and analysing biological data (from DNA to species
+records).

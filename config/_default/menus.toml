@@ -19,21 +19,21 @@
   weight = 10
 
 [[main]]
-  name = "Living fossils?"
-  parent = "Projects"
-  url = "#livingfossils"
-  weight = 30
-
-[[main]]
   name = "supersmartR"
   parent = "Projects"
   url = "#supersmartr"
-  weight = 40
+  weight = 60
+
+[[main]]
+  name = "Living fossils?"
+  parent = "Projects"
+  url = "#livingfossils"
+  weight = 80
 
 [[main]]
   name = "Publications"
   url = "#publications"
-  weight = 40
+  weight = 100
 
 #[[main]]
 #  name = "Tutorials"
@@ -50,4 +50,3 @@
 [[main]]
   name = "CV"
   url = "files/CV.pdf"
-  weight = 70

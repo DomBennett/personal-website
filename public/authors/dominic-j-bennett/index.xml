@@ -58,6 +58,15 @@
     </item>
     
     <item>
+      <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
+      <link>/publication/bennett-2018-phylotar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bennett-2018-phylotar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>restez: Create and Query a Local Copy of GenBank in R</title>
       <link>/publication/bennett-2018-restez/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
@@ -148,12 +157,12 @@
     </item>
     
     <item>
-      <title>Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
+      <title>Thesis: Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
       <link>/publication/bennett-2013-testing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
       
       <guid>/publication/bennett-2013-testing/</guid>
-      <description></description>
+      <description>         Supervisor Andy Purvis   Years 2012 - 2013   Affiliations Imperial College London (Silwood Campus)    </description>
     </item>
     
   </channel>

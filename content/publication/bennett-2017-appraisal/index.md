@@ -1,5 +1,5 @@
 +++
-title = "An appraisal of the ‘Living Fossil’Concept"
+title = "Thesis: An appraisal of the ‘Living Fossil’ Concept"
 date = 2017-01-01
 authors = ["Dominic John Bennett"]
 publication_types = ["7"]

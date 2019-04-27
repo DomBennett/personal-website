@@ -33,7 +33,7 @@ potential factors may explain the "living fossil"-condition.
 My entire PhD thesis is available [here]({{< ref "/publication/bennett-2017-appraisal" >}})
 and the slides and recording of a [Royal Society](https://royalsociety.org/)
 presentation I gave -- that gives a brief overview of much of my thesis -- can be
-downloaded here.
+downloaded [here]({{< ref "/publication/bennett-2019-roysoc" >}}).
 <br><br>
 
 ----

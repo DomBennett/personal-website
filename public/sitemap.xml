@@ -3,12 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/publication_types/0/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
@@ -16,24 +10,19 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/bennett-2019-roysoc/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/dominic-j-bennett/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +39,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,19 +51,19 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/living-fossil/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mammals/</loc>
-    <lastmod>2019-04-27T12:59:09+02:00</lastmod>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,6 +88,17 @@
     <loc>/tags/rstats/</loc>
     <lastmod>2019-04-27T12:17:05+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/0/</loc>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/bennett-2019-roysoc/</loc>
+    <lastmod>2019-04-27T13:13:25+02:00</lastmod>
   </url>
   
   <url>

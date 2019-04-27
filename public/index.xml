@@ -7,15 +7,33 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2019 00:00:00 +0200</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time.</title>
+      <link>/publication/bennett-2019-past/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/bennett-2019-past/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaius</title>
+      <link>/software/gaius/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/software/gaius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Conference Presentation: The evolutionary potential of &#39;living fossils&#39;.</title>
       <link>/publication/bennett-2019-roysoc/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/bennett-2019-roysoc/</guid>
       <description>
@@ -30,24 +48,6 @@
 
 &lt;iframe src=&#34;https://widgets.figshare.com/articles/8035400/embed?show_title=1&#34; width=&#34;568&#34; height=&#34;351&#34; allowfullscreen=&#34;true&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time.</title>
-      <link>/publication/bennett-2019-past/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/bennett-2019-past/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaius</title>
-      <link>/software/gaius/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>/software/gaius/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -1,11 +1,11 @@
 +++
 title = "Conference Presentation: The evolutionary potential of 'living fossils'."
-date = 2019-05-01
+date = 2019-01-24
 authors = ["Dominic J Bennett"]
 publication_types = ["0"]
 abstract = ""
 featured = false
-publication = ""
+publication = "Royal Society"
 tags = ["living-fossil", "mammals"]
 +++
 

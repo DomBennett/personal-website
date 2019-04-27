@@ -30,10 +30,10 @@ quantifiable definition. Additionally, I explored what the label means for
 conservation biologists (Are living fossils worth conserving?) and what
 potential factors may explain the "living fossil"-condition.
 
-My entire PhD thesis is available [here]({{< relref "/publication/bennett-2017-appraisal" >}})
+My entire PhD thesis is available [here]({{< ref "/publication/bennett-2017-appraisal" >}})
 and the slides and recording of a [Royal Society](https://royalsociety.org/)
 presentation I gave -- that gives a brief overview of much of my thesis -- can be
-downloaded [here]({{< relref "/publication/bennett-2019-roysoc" >}}).
+downloaded here.
 <br><br>
 
 ----

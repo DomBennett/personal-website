@@ -10,13 +10,13 @@
   
   <url>
     <loc>/publication_types/2/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -27,13 +27,13 @@
   
   <url>
     <loc>/authors/dominic-j-bennett/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +50,7 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -62,13 +62,13 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/living-fossil/</loc>
-    <lastmod>2019-04-26T13:35:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,26 +79,49 @@
   </url>
   
   <url>
+    <loc>/software/gaius/</loc>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/</loc>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/phylogenetics/</loc>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rstats/</loc>
+    <lastmod>2019-04-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/alexandre-antonelli/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/daniele-silvestro/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/hannes-hettling/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/rutger-vos/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,15 +131,36 @@
   </url>
   
   <url>
-    <loc>/tags/rstats/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <loc>/tags/supersmartr/</loc>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/supersmartr/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <loc>/software/outsider/</loc>
+    <lastmod>2018-11-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/docker/</loc>
+    <lastmod>2018-11-27T00:00:00+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reproducibility/</loc>
+    <lastmod>2018-11-27T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/software/restez/</loc>
+    <lastmod>2018-09-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/software/phylotar/</loc>
+    <lastmod>2018-04-27T00:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -132,7 +176,7 @@
   
   <url>
     <loc>/authors/alexander-zizka/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -150,7 +194,7 @@
   
   <url>
     <loc>/authors/christine-bacon/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +235,7 @@
   
   <url>
     <loc>/authors/s%C3%B8ren-faurby/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,14 +246,8 @@
   </url>
   
   <url>
-    <loc>/tags/phylogenetics/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/bennett-2018-phylotar/</loc>
-    <lastmod>2019-04-24T18:29:54+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
   </url>
   
   <url>
@@ -218,8 +256,13 @@
   </url>
   
   <url>
+    <loc>/software/treeman/</loc>
+    <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/7/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,7 +292,7 @@
   
   <url>
     <loc>/authors/dominic-john-bennett/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,7 +414,7 @@
   
   <url>
     <loc>/publication/bennett-2017-appraisal/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
   </url>
   
   <url>
@@ -388,7 +431,7 @@
   
   <url>
     <loc>/tags/biodiversity/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -549,8 +592,35 @@
   </url>
   
   <url>
+    <loc>/software/pglt/</loc>
+    <lastmod>2013-09-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2013-09-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/software/taxonnamesresolver/</loc>
+    <lastmod>2013-05-27T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/taxonomy/</loc>
+    <lastmod>2013-05-27T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/software/ecodatatools/</loc>
+    <lastmod>2013-01-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/bennett-2013-testing/</loc>
-    <lastmod>2019-04-25T17:38:00+02:00</lastmod>
+    <lastmod>2019-04-26T17:49:51+02:00</lastmod>
   </url>
   
   <url>

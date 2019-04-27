@@ -38,12 +38,13 @@ downloaded [here]({{< ref "/publication/bennett-2019-past2" >}}).
 
 ----
 
-## Quantifying the "living fossil"
+## Which taxa are "living fossils"?
 
 <sup>Below are the top "living fossil" birds and mammals according to their
 proximate "Evolutionary Performance Index" (pEPI) -- the lower the less
-performant. The table also holds key stats on over 20,000 other plants and
-animals. For more information see the paper,
+performant and the more likely the taxon is a living fossil. The table also
+holds key stats on over 20,000 other plants and animals. For more information
+see the paper,
 ["Quantifying the Living Fossil Concept"](https://doi.org/10.26879/750)</sup>
 
 <iframe height="550" width="100%" style="opacity: 0.90;"" src="https://dombennett.shinyapps.io/quantifying-the-living-fossil-app/"> </iframe>

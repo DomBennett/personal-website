@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>phylogenetics</title>
+      <link>/tags/phylogenetics/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rstats</title>
       <link>/tags/rstats/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
       
       <guid>/tags/rstats/</guid>
       <description></description>
@@ -49,11 +58,20 @@
     </item>
     
     <item>
-      <title>phylogenetics</title>
-      <link>/tags/phylogenetics/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <title>docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
       
-      <guid>/tags/phylogenetics/</guid>
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/reproducibility/</guid>
       <description></description>
     </item>
     
@@ -90,6 +108,24 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
       
       <guid>/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>/tags/python/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>taxonomy</title>
+      <link>/tags/taxonomy/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/taxonomy/</guid>
       <description></description>
     </item>
     

@@ -42,11 +42,47 @@
     </item>
     
     <item>
+      <title>Gaius</title>
+      <link>/software/gaius/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>/software/gaius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>outsider: Install and Run Programs, Outside of R, Inside of R</title>
       <link>/publication/bennett-2019-outsider/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/bennett-2019-outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outsider</title>
+      <link>/software/outsider/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/software/outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restez</title>
+      <link>/software/restez/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/software/restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>/software/phylotar/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/software/phylotar/</guid>
       <description></description>
     </item>
     
@@ -83,6 +119,15 @@
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/publication/bennett-2018-restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman</title>
+      <link>/software/treeman/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/software/treeman/</guid>
       <description></description>
     </item>
     
@@ -233,6 +278,33 @@ viewer?embedded=true&amp;url=https://spiral.imperial.ac.uk/bitstream/10044/1/685
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
       
       <guid>/publication/hudson-2014-predicts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pG-lt</title>
+      <link>/software/pglt/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/software/pglt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TNR</title>
+      <link>/software/taxonnamesresolver/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 +0200</pubDate>
+      
+      <guid>/software/taxonnamesresolver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EcoDataTools</title>
+      <link>/software/ecodatatools/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/software/ecodatatools/</guid>
       <description></description>
     </item>
     

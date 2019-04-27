@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reproducibility on Dominic J. Bennett</title>
+    <link>/tags/reproducibility/</link>
+    <description>Recent content in reproducibility on Dominic J. Bennett</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
+    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Outsider</title>
+      <link>/software/outsider/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/software/outsider/</guid>
+      <description>Install and Run Programs, Outside of R, Inside of R.</description>
+    </item>
+    
+  </channel>
+</rss>

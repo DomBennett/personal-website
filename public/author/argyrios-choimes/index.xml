@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Argyrios Choimes | Dominic J. Bennett</title>
+    <link>/author/argyrios-choimes/</link>
+      <atom:link href="/author/argyrios-choimes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Argyrios Choimes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>Argyrios Choimes</title>
+      <link>/author/argyrios-choimes/</link>
+    </image>
+    
+    <item>
+      <title>Global effects of land use on local terrestrial biodiversity</title>
+      <link>/publication/newbold-2015-global/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+      <guid>/publication/newbold-2015-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
+      <link>/publication/contu-2014-predicts/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
+      <guid>/publication/contu-2014-predicts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

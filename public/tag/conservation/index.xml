@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>conservation | Dominic J. Bennett</title>
+    <link>/tag/conservation/</link>
+      <atom:link href="/tag/conservation/index.xml" rel="self" type="application/rss+xml" />
+    <description>conservation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>conservation</title>
+      <link>/tag/conservation/</link>
+    </image>
+    
+    <item>
+      <title>Thesis: Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
+      <link>/publication/bennett-2013-testing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2013-testing/</guid>
+      <description>&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The phylogenetic approach in biodiversity science is an important and growing set of tools used for a wide range of questions and applications from conservation assessment to testing patterns in community assembly. Yet, with the dawn of the big data age, the size and scope of datasets in biology are becom ing ever larger thanks to revolutions in information technology, increased data sharing, &amp;lsquo;big data&amp;rsquo; initiatives and online repositories. Although such sources promise biodiversity analyses at an unprecedentedly large scale, there is no clear solution on how to similarly upscale the phylogenetic approach. Here I propose, implement and use a solution that I term Mass Phylogeny Estima tion (MPE). MPE is an automated programmatic pipeline for the generation of phylogenies from lists of taxon names. It can estimate custom phylogenies for sets of species derived from big data sources. Here I test and demonstrate its usefulness by generating phylogenies for a pan-global dataset of multiple communities - from many different taxa – sampled at sites along an urban gra dient. I then perform phylogenetic analyses using the resultant phylogenetic trees and the ecological data to test for phylogenetically non-random responses to urbanisation. I find a non-significant decrease in phylogenetic diversity with increasing urbanisation, and examples of non-random phylogenetic assortment. Although, MPE is more effective than searching for published phylogenies, it still requires improving in order to produce phylogenies of sufficient size to provide good statistical power to detect non-random patterns.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Supervisor&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/andy-purvis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andy Purvis&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Years&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;2012 - 2013&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Affiliations&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Imperial College London (Silwood Campus)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/0B9T4fm0FZKiDNDA4YUl6TDhjM3dlZElHMl90d2VISXVabDF3/preview&#34; width=&#34;750&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

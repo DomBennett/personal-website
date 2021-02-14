@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Eberlein | Dominic J. Bennett</title>
+    <link>/author/chris-eberlein/</link>
+      <atom:link href="/author/chris-eberlein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Eberlein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>Chris Eberlein</title>
+      <link>/author/chris-eberlein/</link>
+    </image>
+    
+    <item>
+      <title>Distribution and population structure of the anther smut M icrobotryum silenes-acaulis parasitizing an arctic--alpine plant</title>
+      <link>/publication/bueker-2016-distribution/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      <guid>/publication/bueker-2016-distribution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

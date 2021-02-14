@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel T Turvey | Dominic J. Bennett</title>
+    <link>/author/samuel-t-turvey/</link>
+      <atom:link href="/author/samuel-t-turvey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel T Turvey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Sat, 25 May 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>Samuel T Turvey</title>
+      <link>/author/samuel-t-turvey/</link>
+    </image>
+    
+    <item>
+      <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time</title>
+      <link>/publication/bennett-2019-past/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
+      <guid>/publication/bennett-2019-past/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the living fossil concept</title>
+      <link>/publication/bennett-2018-quantifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-quantifying/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.26879/750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;“Living fossil” is a contentious label, often used to identify clades that have experienced particularly little evolutionary change. Many of the problems associated with the term are due to a lack of a clear definition. To date, most work on the phenomenon has been primarily qualitative, leading to a list of living fossils each selected for different sets of reasons. This non-uniformity in living fossil identification makes the ubiquity, clarity and potential causes of the phenomenon difficult to assess. An alternative approach is to use a quantitative metric that matches the most common interpretations of “living fossil” to generate a less subjective listing. Here, we present the Evolutionary Performance Index (EPI); this metric is calculable across the entire tree of life and allows for fair comparisons between taxonomic groups. With this index, we calculated the performance scores for over 24,000 clades within Metazoa and Embryophyta. Many well-known living fossils featured among the lowest performing clades, e.g., coelacanths, gingko, tuatara as well as groups that have previously been overlooked. By grounding the definition in a strictly quantitative framework, future researchers will be better able to test the causes and relevance of the phenomenon.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily distinct “living fossils” require both lower speciation and lower extinction rates</title>
+      <link>/publication/bennett-2017-evolutionarily/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-evolutionarily/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/pab.2016.36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Pay-walled :-(&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;As a label for a distinct category of life, “living fossil” is controversial. The term has multiple definitions, and it is unclear whether the label can be genuinely used to delimit biodiversity. Even taking a purely phylogenetic perspective in which a proxy for the living fossil is evolutionary distinctness (ED), an inconsistency arises: Does it refer to “dead-end” lineages doomed to extinction or “panchronic” lineages that survive through multiple epochs? Recent tree-growth model studies indicate that speciation rates must have been unequally distributed among species in the past to produce the shape of the tree of life. Although an uneven distribution of speciation rates may create the possibility for a distinct group of living fossil lineages, such a grouping could only be considered genuine if extinction rates also show a consistent pattern, be it indicative of dead-end or panchronic lineages. To determine whether extinction rates also show an unequal distribution, we developed a tree-growth model in which the probability of speciation and extinction is a function of a tip’s ED. We simulated thousands of trees in which the ED function for a tip is randomly and independently determined for speciation and extinction rates. We find that simulations in which the most evolutionarily distinct tips have lower rates of speciation and extinction produce phylogenetic trees closest in shape to empirical trees. This implies that a distinct set of lineages with reduced rates of diversification, indicative of a panchronic definition, is required to create the shape of the tree of life.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>treeman: an R package for efficient and intuitive manipulation of phylogenetic trees</title>
+      <link>/publication/bennett-2017-treeman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-treeman/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s13104-016-2340-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Abstract:&lt;sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BACKGROUND:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phylogenetic trees are hierarchical structures used for representing the inter-relationships between biological entities. They are the most common tool for representing evolution and are essential to a range of fields across the life sciences. The manipulation of phylogenetic trees-in terms of adding or removing tips-is often performed by researchers not just for reasons of management but also for performing simulations in order to understand the processes of evolution. Despite this, the most common programming language among biologists, R, has few class structures well suited to these tasks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present an R package that contains a new class, called TreeMan, for representing the phylogenetic tree. This class has a list structure allowing phylogenetic trees to be manipulated more efficiently. Computational running times are reduced because of the ready ability to vectorise and parallelise methods. Development is also improved due to fewer lines of code being required for performing manipulation processes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present three use cases-pinning missing taxa to a supertree, simulating evolution with a tree-growth model and detecting significant phylogenetic turnover-that demonstrate the new package&amp;rsquo;s speed and simplicity.&lt;/em&gt;
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

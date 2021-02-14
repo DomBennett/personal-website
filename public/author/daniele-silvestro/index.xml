@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele Silvestro | Dominic J. Bennett</title>
+    <link>/author/daniele-silvestro/</link>
+      <atom:link href="/author/daniele-silvestro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele Silvestro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>Daniele Silvestro</title>
+      <link>/author/daniele-silvestro/</link>
+    </image>
+    
+    <item>
+      <title>outsider: Install and Run Programs, Outside of R, Inside of R</title>
+      <link>/publication/bennett-2019-outsider/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2019-outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
+      <link>/publication/bennett-2018-phylotar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-phylotar/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/life8020020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The exceptional increase in molecular DNA sequence data in open repositories is mirrored by an ever-growing interest among evolutionary biologists to harvest and use those data for phylogenetic inference. Many quality issues, however, are known and the sheer amount and complexity of data available can pose considerable barriers to their usefulness. A key issue in this domain is the high frequency of sequence mislabeling encountered when searching for suitable sequences for phylogenetic analysis. These issues include, among others, the incorrect identification of sequenced species, non-standardized and ambiguous sequence annotation, and the inadvertent addition of paralogous sequences by users. Taken together, these issues likely add considerable noise, error or bias to phylogenetic inference, a risk that is likely to increase with the size of phylogenies or the molecular datasets used to generate them. Here we present a software package, phylotaR that bypasses the above issues by using instead an alignment search tool to identify orthologous sequences. Our package builds on the framework of its predecessor, PhyLoTa, by providing a modular pipeline for identifying overlapping sequence clusters using up-to-date GenBank data and providing new features, improvements and tools. We demonstrate and test our pipeline’s effectiveness by presenting trees generated from phylotaR clusters for two large taxonomic clades: Palms and primates. Given the versatility of this package, we hope that it will become a standard tool for any research aiming to use GenBank data for phylogenetic analysis.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>restez: Create and Query a Local Copy of GenBank in R</title>
+      <link>/publication/bennett-2018-restez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-restez/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

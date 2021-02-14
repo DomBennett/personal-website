@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Dominic J. Bennett</title>
+    <title>Dominic J. Bennett</title>
     <link>/author/</link>
-    <description>Recent content in Authors on Dominic J. Bennett</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
-    
-	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dominic J. Bennett</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright>
+    <image>
+      <url>/author/avatar_hua3e4b74f2506b911ddc1acf699ee40b7_17672_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Dominic J. Bennett</title>
+      <link>/author/</link>
+    </image>
     
   </channel>
 </rss>

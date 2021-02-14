@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phylogenetics | Dominic J. Bennett</title>
+    <link>/tag/phylogenetics/</link>
+      <atom:link href="/tag/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>phylogenetics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>phylogenetics</title>
+      <link>/tag/phylogenetics/</link>
+    </image>
+    
+    <item>
+      <title>Gaius</title>
+      <link>/software/gaius/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>/software/gaius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restez</title>
+      <link>/software/restez/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>/software/restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>/software/phylotar/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>/software/phylotar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A roadmap for global synthesis of the plant tree of life</title>
+      <link>/publication/eiserhardt-2018-roadmap/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/eiserhardt-2018-roadmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
+      <link>/publication/bennett-2018-phylotar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-phylotar/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/life8020020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The exceptional increase in molecular DNA sequence data in open repositories is mirrored by an ever-growing interest among evolutionary biologists to harvest and use those data for phylogenetic inference. Many quality issues, however, are known and the sheer amount and complexity of data available can pose considerable barriers to their usefulness. A key issue in this domain is the high frequency of sequence mislabeling encountered when searching for suitable sequences for phylogenetic analysis. These issues include, among others, the incorrect identification of sequenced species, non-standardized and ambiguous sequence annotation, and the inadvertent addition of paralogous sequences by users. Taken together, these issues likely add considerable noise, error or bias to phylogenetic inference, a risk that is likely to increase with the size of phylogenies or the molecular datasets used to generate them. Here we present a software package, phylotaR that bypasses the above issues by using instead an alignment search tool to identify orthologous sequences. Our package builds on the framework of its predecessor, PhyLoTa, by providing a modular pipeline for identifying overlapping sequence clusters using up-to-date GenBank data and providing new features, improvements and tools. We demonstrate and test our pipeline’s effectiveness by presenting trees generated from phylotaR clusters for two large taxonomic clades: Palms and primates. Given the versatility of this package, we hope that it will become a standard tool for any research aiming to use GenBank data for phylogenetic analysis.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>restez: Create and Query a Local Copy of GenBank in R</title>
+      <link>/publication/bennett-2018-restez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman</title>
+      <link>/software/treeman/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      <guid>/software/treeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets</title>
+      <link>/publication/washburne-2017-phylogenetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/washburne-2017-phylogenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting free-living dormice: molecular identification of cestode parasites in captive dormice (Muscardinus avellanarius) destined for reintroduction</title>
+      <link>/publication/peniche-2017-protecting/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/peniche-2017-protecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman: an R package for efficient and intuitive manipulation of phylogenetic trees</title>
+      <link>/publication/bennett-2017-treeman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-treeman/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s13104-016-2340-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Abstract:&lt;sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BACKGROUND:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phylogenetic trees are hierarchical structures used for representing the inter-relationships between biological entities. They are the most common tool for representing evolution and are essential to a range of fields across the life sciences. The manipulation of phylogenetic trees-in terms of adding or removing tips-is often performed by researchers not just for reasons of management but also for performing simulations in order to understand the processes of evolution. Despite this, the most common programming language among biologists, R, has few class structures well suited to these tasks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present an R package that contains a new class, called TreeMan, for representing the phylogenetic tree. This class has a list structure allowing phylogenetic trees to be manipulated more efficiently. Computational running times are reduced because of the ready ability to vectorise and parallelise methods. Development is also improved due to fewer lines of code being required for performing manipulation processes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present three use cases-pinning missing taxa to a supertree, simulating evolution with a tree-growth model and detecting significant phylogenetic turnover-that demonstrate the new package&amp;rsquo;s speed and simplicity.&lt;/em&gt;
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pG-lt</title>
+      <link>/software/pglt/</link>
+      <pubDate>Fri, 27 Sep 2013 00:00:00 +0200</pubDate>
+      <guid>/software/pglt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EcoDataTools</title>
+      <link>/software/ecodatatools/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/software/ecodatatools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thesis: Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
+      <link>/publication/bennett-2013-testing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2013-testing/</guid>
+      <description>&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The phylogenetic approach in biodiversity science is an important and growing set of tools used for a wide range of questions and applications from conservation assessment to testing patterns in community assembly. Yet, with the dawn of the big data age, the size and scope of datasets in biology are becom ing ever larger thanks to revolutions in information technology, increased data sharing, &amp;lsquo;big data&amp;rsquo; initiatives and online repositories. Although such sources promise biodiversity analyses at an unprecedentedly large scale, there is no clear solution on how to similarly upscale the phylogenetic approach. Here I propose, implement and use a solution that I term Mass Phylogeny Estima tion (MPE). MPE is an automated programmatic pipeline for the generation of phylogenies from lists of taxon names. It can estimate custom phylogenies for sets of species derived from big data sources. Here I test and demonstrate its usefulness by generating phylogenies for a pan-global dataset of multiple communities - from many different taxa – sampled at sites along an urban gra dient. I then perform phylogenetic analyses using the resultant phylogenetic trees and the ecological data to test for phylogenetically non-random responses to urbanisation. I find a non-significant decrease in phylogenetic diversity with increasing urbanisation, and examples of non-random phylogenetic assortment. Although, MPE is more effective than searching for published phylogenies, it still requires improving in order to produce phylogenies of sufficient size to provide good statistical power to detect non-random patterns.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Supervisor&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/andy-purvis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andy Purvis&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Years&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;2012 - 2013&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Affiliations&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Imperial College London (Silwood Campus)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/0B9T4fm0FZKiDNDA4YUl6TDhjM3dlZElHMl90d2VISXVabDF3/preview&#34; width=&#34;750&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

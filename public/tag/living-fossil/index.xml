@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>living-fossil | Dominic J. Bennett</title>
+    <link>/tag/living-fossil/</link>
+      <atom:link href="/tag/living-fossil/index.xml" rel="self" type="application/rss+xml" />
+    <description>living-fossil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Sat, 25 May 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>living-fossil</title>
+      <link>/tag/living-fossil/</link>
+    </image>
+    
+    <item>
+      <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time</title>
+      <link>/publication/bennett-2019-past/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
+      <guid>/publication/bennett-2019-past/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conference Presentation: The evolutionary potential of &#39;living fossils&#39;.</title>
+      <link>/publication/bennett-2019-roysoc/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2019-roysoc/</guid>
+      <description>&lt;h2 id=&#34;presentation-to-the-royal-society&#34;&gt;Presentation to the Royal Society&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Part of the special meeting &lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2019/01/the-past-is-a-foreign-country/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Past is a Foreign Country&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The presentation slides can be downloaded via FigShare, &lt;a href=&#34;https://figshare.com/articles/The_Past_is_a_Foreign_Country_The_evolutionary_potential_of_living_fossils_/8035400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;An audio recording of the presentation is available &lt;a href=&#34;http://downloads.royalsociety.org/events/2019/01/the-past-is-a-foreign-country/Bennett.MP3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://widgets.figshare.com/articles/8035400/embed?show_title=1&#34; width=&#34;568&#34; height=&#34;351&#34; allowfullscreen=&#34;true&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the living fossil concept</title>
+      <link>/publication/bennett-2018-quantifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-quantifying/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.26879/750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;“Living fossil” is a contentious label, often used to identify clades that have experienced particularly little evolutionary change. Many of the problems associated with the term are due to a lack of a clear definition. To date, most work on the phenomenon has been primarily qualitative, leading to a list of living fossils each selected for different sets of reasons. This non-uniformity in living fossil identification makes the ubiquity, clarity and potential causes of the phenomenon difficult to assess. An alternative approach is to use a quantitative metric that matches the most common interpretations of “living fossil” to generate a less subjective listing. Here, we present the Evolutionary Performance Index (EPI); this metric is calculable across the entire tree of life and allows for fair comparisons between taxonomic groups. With this index, we calculated the performance scores for over 24,000 clades within Metazoa and Embryophyta. Many well-known living fossils featured among the lowest performing clades, e.g., coelacanths, gingko, tuatara as well as groups that have previously been overlooked. By grounding the definition in a strictly quantitative framework, future researchers will be better able to test the causes and relevance of the phenomenon.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily distinct “living fossils” require both lower speciation and lower extinction rates</title>
+      <link>/publication/bennett-2017-evolutionarily/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-evolutionarily/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/pab.2016.36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Pay-walled :-(&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;As a label for a distinct category of life, “living fossil” is controversial. The term has multiple definitions, and it is unclear whether the label can be genuinely used to delimit biodiversity. Even taking a purely phylogenetic perspective in which a proxy for the living fossil is evolutionary distinctness (ED), an inconsistency arises: Does it refer to “dead-end” lineages doomed to extinction or “panchronic” lineages that survive through multiple epochs? Recent tree-growth model studies indicate that speciation rates must have been unequally distributed among species in the past to produce the shape of the tree of life. Although an uneven distribution of speciation rates may create the possibility for a distinct group of living fossil lineages, such a grouping could only be considered genuine if extinction rates also show a consistent pattern, be it indicative of dead-end or panchronic lineages. To determine whether extinction rates also show an unequal distribution, we developed a tree-growth model in which the probability of speciation and extinction is a function of a tip’s ED. We simulated thousands of trees in which the ED function for a tip is randomly and independently determined for speciation and extinction rates. We find that simulations in which the most evolutionarily distinct tips have lower rates of speciation and extinction produce phylogenetic trees closest in shape to empirical trees. This implies that a distinct set of lineages with reduced rates of diversification, indicative of a panchronic definition, is required to create the shape of the tree of life.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thesis: An appraisal of the ‘Living Fossil’ Concept</title>
+      <link>/publication/bennett-2017-appraisal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-appraisal/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Freely available&lt;/strong&gt; via &lt;a href=&#34;https://spiral.imperial.ac.uk/handle/10044/1/68534&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&amp;rsquo;s Spiral repository&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;Although the term ‘living fossil’ has been around for over 150 years, it remains scientifically undefined and contentious. Generally, it refers to any taxon that is evolutionarily unique, species-poor and exhibits traits closely resembling those of extinct taxa. This interpretation, however, is not universal. Other interpretations of the term include species that are evolutionary dead-ends, taxa that were first discovered in the fossil record and/or lineages that have undergone no (sic) morphological change. In addition to the confusion over definition, many have argued against the concept on the grounds that it is either not feasible, that it may not delineate a true category of biodiversity or that it recalls defunct Victorian scientific ideas. Despite these objections, it is evident that the concept of the living fossil can play an important role in our understanding of evolution over large timescales. In recent years there has been renewed interest in the concept of the living fossil thanks to the development of genomic techniques that are revealing previously hidden rates of molecular change in well-known living fossils. Additionally, many species that have been described as living fossils are threatened with extinction and there exists a risk that their unique evolutionary history is being lost. In this thesis, I attempt a re-appraisal of the living fossil concept. Firstly I test whether the concept of the living fossil can be made scientifically sound. Secondly I develop a new quantitative definition of the living fossil. I show that the concept is robust as it can be used to distinguish lineages that have experienced different rates of evolution. In addition I demonstrate that it is possible to devise a quantitative definition, which I use to identify living fossils and their traits across a wide range of taxonomic groups.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Supervisors&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.imperial.ac.uk/people/m.sutton&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Sutton&lt;/a&gt; and &lt;a href=&#34;https://www.zsl.org/science/users/samuel-turvey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam Turvey&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;&amp;lsquo;Opponent&amp;rsquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://biosci.unl.edu/peter-wagner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Wagner&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Years&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;2013 - 2017&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Affiliations&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Imperial College London and Zoological Society of London&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Funder&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Natural Environment Research Council (Great Britain)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Licence&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Creative Commons Non-Commercial No Derivatives&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;embed src=&#34;https://drive.google.com/viewerng/
+viewer?embedded=true&amp;url=https://spiral.imperial.ac.uk/bitstream/10044/1/68534/1/Bennett-D-2017-PhD-Thesis.pdf&#34; width=&#34;750&#34; height=&#34;800&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

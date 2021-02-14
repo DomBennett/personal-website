@@ -1,39 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Dominic J. Bennett</title>
+    <title>Publications | Dominic J. Bennett</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Dominic J. Bennett</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; Dominic J. Bennett {year}</copyright>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Sat, 25 May 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
       <title>How the Past Impacts the Future: Modelling the Performance of Evolutionarily Distinct Mammals through Time</title>
       <link>/publication/bennett-2019-past/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0200</pubDate>
-      
       <guid>/publication/bennett-2019-past/</guid>
-      <description>Submitted</description>
+      <description>&lt;p&gt;&lt;strong&gt;Submitted&lt;/strong&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Conference Presentation: The evolutionary potential of &#39;living fossils&#39;.</title>
       <link>/publication/bennett-2019-roysoc/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2019-roysoc/</guid>
-      <description> Presentation to the Royal Society  Part of the special meeting &amp;ldquo;The Past is a Foreign Country&amp;rdquo; The presentation slides can be downloaded via FigShare, here. An audio recording of the presentation is available here.   </description>
+      <description>&lt;h2 id=&#34;presentation-to-the-royal-society&#34;&gt;Presentation to the Royal Society&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Part of the special meeting &lt;a href=&#34;https://royalsociety.org/science-events-and-lectures/2019/01/the-past-is-a-foreign-country/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Past is a Foreign Country&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The presentation slides can be downloaded via FigShare, &lt;a href=&#34;https://figshare.com/articles/The_Past_is_a_Foreign_Country_The_evolutionary_potential_of_living_fossils_/8035400&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;An audio recording of the presentation is available &lt;a href=&#34;http://downloads.royalsociety.org/events/2019/01/the-past-is-a-foreign-country/Bennett.MP3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://widgets.figshare.com/articles/8035400/embed?show_title=1&#34; width=&#34;568&#34; height=&#34;351&#34; allowfullscreen=&#34;true&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
     <item>
       <title>outsider: Install and Run Programs, Outside of R, Inside of R</title>
       <link>/publication/bennett-2019-outsider/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2019-outsider/</guid>
       <description></description>
     </item>
@@ -42,36 +48,38 @@
       <title>A roadmap for global synthesis of the plant tree of life</title>
       <link>/publication/eiserhardt-2018-roadmap/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/eiserhardt-2018-roadmap/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying the living fossil concept</title>
-      <link>/publication/bennett-2018-quantifying/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>/publication/bennett-2018-quantifying/</guid>
-      <description>Access content Open-access!
-Abstract: “Living fossil” is a contentious label, often used to identify clades that have experienced particularly little evolutionary change. Many of the problems associated with the term are due to a lack of a clear definition. To date, most work on the phenomenon has been primarily qualitative, leading to a list of living fossils each selected for different sets of reasons. This non-uniformity in living fossil identification makes the ubiquity, clarity and potential causes of the phenomenon difficult to assess.</description>
     </item>
     
     <item>
       <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
       <link>/publication/bennett-2018-phylotar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2018-phylotar/</guid>
-      <description>Access content Open-access!
-Abstract: The exceptional increase in molecular DNA sequence data in open repositories is mirrored by an ever-growing interest among evolutionary biologists to harvest and use those data for phylogenetic inference. Many quality issues, however, are known and the sheer amount and complexity of data available can pose considerable barriers to their usefulness. A key issue in this domain is the high frequency of sequence mislabeling encountered when searching for suitable sequences for phylogenetic analysis.</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/life8020020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The exceptional increase in molecular DNA sequence data in open repositories is mirrored by an ever-growing interest among evolutionary biologists to harvest and use those data for phylogenetic inference. Many quality issues, however, are known and the sheer amount and complexity of data available can pose considerable barriers to their usefulness. A key issue in this domain is the high frequency of sequence mislabeling encountered when searching for suitable sequences for phylogenetic analysis. These issues include, among others, the incorrect identification of sequenced species, non-standardized and ambiguous sequence annotation, and the inadvertent addition of paralogous sequences by users. Taken together, these issues likely add considerable noise, error or bias to phylogenetic inference, a risk that is likely to increase with the size of phylogenies or the molecular datasets used to generate them. Here we present a software package, phylotaR that bypasses the above issues by using instead an alignment search tool to identify orthologous sequences. Our package builds on the framework of its predecessor, PhyLoTa, by providing a modular pipeline for identifying overlapping sequence clusters using up-to-date GenBank data and providing new features, improvements and tools. We demonstrate and test our pipeline’s effectiveness by presenting trees generated from phylotaR clusters for two large taxonomic clades: Palms and primates. Given the versatility of this package, we hope that it will become a standard tool for any research aiming to use GenBank data for phylogenetic analysis.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantifying the living fossil concept</title>
+      <link>/publication/bennett-2018-quantifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-quantifying/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.26879/750&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;“Living fossil” is a contentious label, often used to identify clades that have experienced particularly little evolutionary change. Many of the problems associated with the term are due to a lack of a clear definition. To date, most work on the phenomenon has been primarily qualitative, leading to a list of living fossils each selected for different sets of reasons. This non-uniformity in living fossil identification makes the ubiquity, clarity and potential causes of the phenomenon difficult to assess. An alternative approach is to use a quantitative metric that matches the most common interpretations of “living fossil” to generate a less subjective listing. Here, we present the Evolutionary Performance Index (EPI); this metric is calculable across the entire tree of life and allows for fair comparisons between taxonomic groups. With this index, we calculated the performance scores for over 24,000 clades within Metazoa and Embryophyta. Many well-known living fossils featured among the lowest performing clades, e.g., coelacanths, gingko, tuatara as well as groups that have previously been overlooked. By grounding the definition in a strictly quantitative framework, future researchers will be better able to test the causes and relevance of the phenomenon.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>restez: Create and Query a Local Copy of GenBank in R</title>
       <link>/publication/bennett-2018-restez/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2018-restez/</guid>
       <description></description>
     </item>
@@ -80,17 +88,18 @@ Abstract: The exceptional increase in molecular DNA sequence data in open reposi
       <title>Evolutionarily distinct “living fossils” require both lower speciation and lower extinction rates</title>
       <link>/publication/bennett-2017-evolutionarily/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2017-evolutionarily/</guid>
-      <description>Access content Pay-walled :-(
-Abstract: As a label for a distinct category of life, “living fossil” is controversial. The term has multiple definitions, and it is unclear whether the label can be genuinely used to delimit biodiversity. Even taking a purely phylogenetic perspective in which a proxy for the living fossil is evolutionary distinctness (ED), an inconsistency arises: Does it refer to “dead-end” lineages doomed to extinction or “panchronic” lineages that survive through multiple epochs?</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1017/pab.2016.36&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Pay-walled :-(&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;As a label for a distinct category of life, “living fossil” is controversial. The term has multiple definitions, and it is unclear whether the label can be genuinely used to delimit biodiversity. Even taking a purely phylogenetic perspective in which a proxy for the living fossil is evolutionary distinctness (ED), an inconsistency arises: Does it refer to “dead-end” lineages doomed to extinction or “panchronic” lineages that survive through multiple epochs? Recent tree-growth model studies indicate that speciation rates must have been unequally distributed among species in the past to produce the shape of the tree of life. Although an uneven distribution of speciation rates may create the possibility for a distinct group of living fossil lineages, such a grouping could only be considered genuine if extinction rates also show a consistent pattern, be it indicative of dead-end or panchronic lineages. To determine whether extinction rates also show an unequal distribution, we developed a tree-growth model in which the probability of speciation and extinction is a function of a tip’s ED. We simulated thousands of trees in which the ED function for a tip is randomly and independently determined for speciation and extinction rates. We find that simulations in which the most evolutionarily distinct tips have lower rates of speciation and extinction produce phylogenetic trees closest in shape to empirical trees. This implies that a distinct set of lineages with reduced rates of diversification, indicative of a panchronic definition, is required to create the shape of the tree of life.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets</title>
       <link>/publication/washburne-2017-phylogenetic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/washburne-2017-phylogenetic/</guid>
       <description></description>
     </item>
@@ -99,7 +108,6 @@ Abstract: As a label for a distinct category of life, “living fossil” is con
       <title>Protecting free-living dormice: molecular identification of cestode parasites in captive dormice (Muscardinus avellanarius) destined for reintroduction</title>
       <link>/publication/peniche-2017-protecting/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/peniche-2017-protecting/</guid>
       <description></description>
     </item>
@@ -108,7 +116,6 @@ Abstract: As a label for a distinct category of life, “living fossil” is con
       <title>The database of the Predicts (Projecting responses of ecological diversity in changing terrestrial systems) project</title>
       <link>/publication/hudson-2017-database/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/hudson-2017-database/</guid>
       <description></description>
     </item>
@@ -117,29 +124,73 @@ Abstract: As a label for a distinct category of life, “living fossil” is con
       <title>Thesis: An appraisal of the ‘Living Fossil’ Concept</title>
       <link>/publication/bennett-2017-appraisal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2017-appraisal/</guid>
-      <description>Freely available via Imperial College London&amp;rsquo;s Spiral repository
-Abstract: Although the term ‘living fossil’ has been around for over 150 years, it remains scientifically undefined and contentious. Generally, it refers to any taxon that is evolutionarily unique, species-poor and exhibits traits closely resembling those of extinct taxa. This interpretation, however, is not universal. Other interpretations of the term include species that are evolutionary dead-ends, taxa that were first discovered in the fossil record and/or lineages that have undergone no (sic) morphological change.</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Freely available&lt;/strong&gt; via &lt;a href=&#34;https://spiral.imperial.ac.uk/handle/10044/1/68534&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imperial College London&amp;rsquo;s Spiral repository&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;Although the term ‘living fossil’ has been around for over 150 years, it remains scientifically undefined and contentious. Generally, it refers to any taxon that is evolutionarily unique, species-poor and exhibits traits closely resembling those of extinct taxa. This interpretation, however, is not universal. Other interpretations of the term include species that are evolutionary dead-ends, taxa that were first discovered in the fossil record and/or lineages that have undergone no (sic) morphological change. In addition to the confusion over definition, many have argued against the concept on the grounds that it is either not feasible, that it may not delineate a true category of biodiversity or that it recalls defunct Victorian scientific ideas. Despite these objections, it is evident that the concept of the living fossil can play an important role in our understanding of evolution over large timescales. In recent years there has been renewed interest in the concept of the living fossil thanks to the development of genomic techniques that are revealing previously hidden rates of molecular change in well-known living fossils. Additionally, many species that have been described as living fossils are threatened with extinction and there exists a risk that their unique evolutionary history is being lost. In this thesis, I attempt a re-appraisal of the living fossil concept. Firstly I test whether the concept of the living fossil can be made scientifically sound. Secondly I develop a new quantitative definition of the living fossil. I show that the concept is robust as it can be used to distinguish lineages that have experienced different rates of evolution. In addition I demonstrate that it is possible to devise a quantitative definition, which I use to identify living fossils and their traits across a wide range of taxonomic groups.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Supervisors&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.imperial.ac.uk/people/m.sutton&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mark Sutton&lt;/a&gt; and &lt;a href=&#34;https://www.zsl.org/science/users/samuel-turvey&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sam Turvey&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;&amp;lsquo;Opponent&amp;rsquo;&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://biosci.unl.edu/peter-wagner&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Peter Wagner&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Years&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;2013 - 2017&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Affiliations&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Imperial College London and Zoological Society of London&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Funder&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Natural Environment Research Council (Great Britain)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Licence&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Creative Commons Non-Commercial No Derivatives&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;embed src=&#34;https://drive.google.com/viewerng/
+viewer?embedded=true&amp;url=https://spiral.imperial.ac.uk/bitstream/10044/1/68534/1/Bennett-D-2017-PhD-Thesis.pdf&#34; width=&#34;750&#34; height=&#34;800&#34;&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>treeman: an R package for efficient and intuitive manipulation of phylogenetic trees</title>
       <link>/publication/bennett-2017-treeman/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2017-treeman/</guid>
-      <description>Access content Open-access!
-Abstract:
-BACKGROUND:
-Phylogenetic trees are hierarchical structures used for representing the inter-relationships between biological entities. They are the most common tool for representing evolution and are essential to a range of fields across the life sciences. The manipulation of phylogenetic trees-in terms of adding or removing tips-is often performed by researchers not just for reasons of management but also for performing simulations in order to understand the processes of evolution.</description>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s13104-016-2340-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Abstract:&lt;sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BACKGROUND:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phylogenetic trees are hierarchical structures used for representing the inter-relationships between biological entities. They are the most common tool for representing evolution and are essential to a range of fields across the life sciences. The manipulation of phylogenetic trees-in terms of adding or removing tips-is often performed by researchers not just for reasons of management but also for performing simulations in order to understand the processes of evolution. Despite this, the most common programming language among biologists, R, has few class structures well suited to these tasks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present an R package that contains a new class, called TreeMan, for representing the phylogenetic tree. This class has a list structure allowing phylogenetic trees to be manipulated more efficiently. Computational running times are reduced because of the ready ability to vectorise and parallelise methods. Development is also improved due to fewer lines of code being required for performing manipulation processes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present three use cases-pinning missing taxa to a supertree, simulating evolution with a tree-growth model and detecting significant phylogenetic turnover-that demonstrate the new package&amp;rsquo;s speed and simplicity.&lt;/em&gt;
+&lt;/sup&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Dataset: The 2016 release of the PREDICTS database</title>
       <link>/publication/hudson-2016-dataset/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>/publication/hudson-2016-dataset/</guid>
       <description></description>
     </item>
@@ -148,7 +199,6 @@ Phylogenetic trees are hierarchical structures used for representing the inter-r
       <title>Distribution and population structure of the anther smut M icrobotryum silenes-acaulis parasitizing an arctic--alpine plant</title>
       <link>/publication/bueker-2016-distribution/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bueker-2016-distribution/</guid>
       <description></description>
     </item>
@@ -157,7 +207,6 @@ Phylogenetic trees are hierarchical structures used for representing the inter-r
       <title>Global effects of land use on local terrestrial biodiversity</title>
       <link>/publication/newbold-2015-global/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
-      
       <guid>/publication/newbold-2015-global/</guid>
       <description></description>
     </item>
@@ -166,7 +215,6 @@ Phylogenetic trees are hierarchical structures used for representing the inter-r
       <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
       <link>/publication/contu-2014-predicts/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/contu-2014-predicts/</guid>
       <description></description>
     </item>
@@ -175,7 +223,6 @@ Phylogenetic trees are hierarchical structures used for representing the inter-r
       <title>The PREDICTS database: a global database of how local terrestrial biodiversity responds to human impacts</title>
       <link>/publication/hudson-2014-predicts/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0100</pubDate>
-      
       <guid>/publication/hudson-2014-predicts/</guid>
       <description></description>
     </item>
@@ -184,9 +231,32 @@ Phylogenetic trees are hierarchical structures used for representing the inter-r
       <title>Thesis: Testing for Non-random Phylogenetic Responses to Urbanisation Using Mass Phylogeny Estimation (MPE)</title>
       <link>/publication/bennett-2013-testing/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
-      
       <guid>/publication/bennett-2013-testing/</guid>
-      <description>Abstract: The phylogenetic approach in biodiversity science is an important and growing set of tools used for a wide range of questions and applications from conservation assessment to testing patterns in community assembly. Yet, with the dawn of the big data age, the size and scope of datasets in biology are becom ing ever larger thanks to revolutions in information technology, increased data sharing, &amp;lsquo;big data&amp;rsquo; initiatives and online repositories. Although such sources promise biodiversity analyses at an unprecedentedly large scale, there is no clear solution on how to similarly upscale the phylogenetic approach.</description>
+      <description>&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The phylogenetic approach in biodiversity science is an important and growing set of tools used for a wide range of questions and applications from conservation assessment to testing patterns in community assembly. Yet, with the dawn of the big data age, the size and scope of datasets in biology are becom ing ever larger thanks to revolutions in information technology, increased data sharing, &amp;lsquo;big data&amp;rsquo; initiatives and online repositories. Although such sources promise biodiversity analyses at an unprecedentedly large scale, there is no clear solution on how to similarly upscale the phylogenetic approach. Here I propose, implement and use a solution that I term Mass Phylogeny Estima tion (MPE). MPE is an automated programmatic pipeline for the generation of phylogenies from lists of taxon names. It can estimate custom phylogenies for sets of species derived from big data sources. Here I test and demonstrate its usefulness by generating phylogenies for a pan-global dataset of multiple communities - from many different taxa – sampled at sites along an urban gra dient. I then perform phylogenetic analyses using the resultant phylogenetic trees and the ecological data to test for phylogenetically non-random responses to urbanisation. I find a non-significant decrease in phylogenetic diversity with increasing urbanisation, and examples of non-random phylogenetic assortment. Although, MPE is more effective than searching for published phylogenies, it still requires improving in order to produce phylogenies of sufficient size to provide good statistical power to detect non-random patterns.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Supervisor&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/andy-purvis.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andy Purvis&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Years&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;2012 - 2013&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Affiliations&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Imperial College London (Silwood Campus)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/0B9T4fm0FZKiDNDA4YUl6TDhjM3dlZElHMl90d2VISXVabDF3/preview&#34; width=&#34;750&#34; height=&#34;800&#34;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>

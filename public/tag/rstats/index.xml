@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rstats | Dominic J. Bennett</title>
+    <link>/tag/rstats/</link>
+      <atom:link href="/tag/rstats/index.xml" rel="self" type="application/rss+xml" />
+    <description>rstats</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><copyright>© Dominic J. Bennett 2021</copyright><lastBuildDate>Sat, 27 Apr 2019 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/media/icon-192.png</url>
+      <title>rstats</title>
+      <link>/tag/rstats/</link>
+    </image>
+    
+    <item>
+      <title>Gaius</title>
+      <link>/software/gaius/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 +0200</pubDate>
+      <guid>/software/gaius/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outsider: Install and Run Programs, Outside of R, Inside of R</title>
+      <link>/publication/bennett-2019-outsider/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2019-outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outsider</title>
+      <link>/software/outsider/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0100</pubDate>
+      <guid>/software/outsider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restez</title>
+      <link>/software/restez/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
+      <guid>/software/restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR</title>
+      <link>/software/phylotar/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      <guid>/software/phylotar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phylotaR: An automated pipeline for retrieving orthologous DNA sequences from GenBank in R</title>
+      <link>/publication/bennett-2018-phylotar/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-phylotar/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.3390/life8020020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;sup&gt;Abstract: &lt;em&gt;The exceptional increase in molecular DNA sequence data in open repositories is mirrored by an ever-growing interest among evolutionary biologists to harvest and use those data for phylogenetic inference. Many quality issues, however, are known and the sheer amount and complexity of data available can pose considerable barriers to their usefulness. A key issue in this domain is the high frequency of sequence mislabeling encountered when searching for suitable sequences for phylogenetic analysis. These issues include, among others, the incorrect identification of sequenced species, non-standardized and ambiguous sequence annotation, and the inadvertent addition of paralogous sequences by users. Taken together, these issues likely add considerable noise, error or bias to phylogenetic inference, a risk that is likely to increase with the size of phylogenies or the molecular datasets used to generate them. Here we present a software package, phylotaR that bypasses the above issues by using instead an alignment search tool to identify orthologous sequences. Our package builds on the framework of its predecessor, PhyLoTa, by providing a modular pipeline for identifying overlapping sequence clusters using up-to-date GenBank data and providing new features, improvements and tools. We demonstrate and test our pipeline’s effectiveness by presenting trees generated from phylotaR clusters for two large taxonomic clades: Palms and primates. Given the versatility of this package, we hope that it will become a standard tool for any research aiming to use GenBank data for phylogenetic analysis.&lt;/em&gt;&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>restez: Create and Query a Local Copy of GenBank in R</title>
+      <link>/publication/bennett-2018-restez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2018-restez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman</title>
+      <link>/software/treeman/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0200</pubDate>
+      <guid>/software/treeman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic factorization of compositional data yields lineage-level associations in microbiome datasets</title>
+      <link>/publication/washburne-2017-phylogenetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/washburne-2017-phylogenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>treeman: an R package for efficient and intuitive manipulation of phylogenetic trees</title>
+      <link>/publication/bennett-2017-treeman/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <guid>/publication/bennett-2017-treeman/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1186/s13104-016-2340-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Access content&lt;/a&gt; Open-access!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Abstract:&lt;sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BACKGROUND:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Phylogenetic trees are hierarchical structures used for representing the inter-relationships between biological entities. They are the most common tool for representing evolution and are essential to a range of fields across the life sciences. The manipulation of phylogenetic trees-in terms of adding or removing tips-is often performed by researchers not just for reasons of management but also for performing simulations in order to understand the processes of evolution. Despite this, the most common programming language among biologists, R, has few class structures well suited to these tasks.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;RESULTS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present an R package that contains a new class, called TreeMan, for representing the phylogenetic tree. This class has a list structure allowing phylogenetic trees to be manipulated more efficiently. Computational running times are reduced because of the ready ability to vectorise and parallelise methods. Development is also improved due to fewer lines of code being required for performing manipulation processes.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CONCLUSIONS:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We present three use cases-pinning missing taxa to a supertree, simulating evolution with a tree-growth model and detecting significant phylogenetic turnover-that demonstrate the new package&amp;rsquo;s speed and simplicity.&lt;/em&gt;
+&lt;/sup&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EcoDataTools</title>
+      <link>/software/ecodatatools/</link>
+      <pubDate>Sun, 27 Jan 2013 00:00:00 +0100</pubDate>
+      <guid>/software/ecodatatools/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

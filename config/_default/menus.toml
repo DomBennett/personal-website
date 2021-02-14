@@ -32,12 +32,12 @@
 
 [[main]]
   name = "Software"
-  url = "#software"
+  url = "/software"
   weight = 100
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "/publication"
   weight = 120
 
 #[[main]]

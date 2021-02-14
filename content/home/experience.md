@@ -28,13 +28,26 @@ experience:
     location: Gothenburg, Sweden
     date_start: '2020-01-01'
     date_end: ''
-    description: Cloud-native development of 5G packet core.
+    description: >
+      Cloud-native development of 5G packet core. Work packages in networking and
+      security.
+      
+      Technologies:
+       * C
+       * C++
+       * golang
+       * ttcn
+       * k8s
+       * helm
         
   - title: Post-doc
     company: University Gothenburg
-    company_url: ''
+    company_url: 'https://www.gu.se/en/biological-environmental-sciences'
     location: Gothenburg, Sweden
     date_start: '2017-09-01'
     date_end: '2019-12-01'
-    description: Phylogenetic pipelines development.
+    description: >
+      Phylogenetic pipelines development.
+      
+      See the ["supersmartR"](/projects#supersmartr) project page for more details.
 ---

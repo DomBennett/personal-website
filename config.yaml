@@ -2,7 +2,7 @@ theme: starter-academic
 title: "Dominic J. Bennett"
 baseurl: "/"
 copyright: "&copy; Dominic J. Bennett {year}"
-enableGitInfo: no # TODO turn this on
+enableGitInfo: yes
 defaultContentLanguage: en
 hasCJKLanguage: no
 defaultContentLanguageInSubdir: no

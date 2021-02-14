@@ -9,20 +9,24 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Developer | Post-doc"
+role = "Software developer | Data scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Gothenburg", url = "https://bioenv.gu.se/english" } ]
+organizations = [ { name = "Layer10", url = "https://www.layer10.se/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Post-doc and open-source developer working in biodiversity and phylogenetics"
+bio = "Software developer and data scientist with a background in evolutionary biology."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "dominic.john.bennett@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
+  "Cloud computing",
+  "Genomics",
+  "Bioinformatics",
+  "Big data",
   "Biodiversity",
   "Macroevolution",
   "Phylogenetics",
@@ -94,17 +98,28 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I'm a post-doc in the [Antonelli Lab](http://antonelli-lab.net/) at the
-[University of Gothenburg](https://www.gu.se/english), Sweden, working on
+I develop software and play with data. I have a history in academia working in
+bioinformatics, I have several
+first-authorship and co-authorship publications across multiple fields in the
+life sciences. I now work as a professional software developer and I'm currently
+working within
+[Ericsson's 5G Cloud Packet Core](https://www.ericsson.com/en/portfolio/digital-services/cloud-core/cloud-packet-core), Gothenburg, Sweden.
+
+<small>
+
+Prior to this position, I was a post-doc in the [Antonelli Lab](http://antonelli-lab.net/) at the
+[University of Gothenburg](https://www.gu.se/english), working on
 pipelines in [R](https://en.wikipedia.org/wiki/R_(programming_language)) for [phylogenetic analysis](https://en.wikipedia.org/wiki/Phylogenetic_tree). As
-part of this work I'm converting the program
-[SUPERSMART](http://supersmart-project.org/) to R, a project called 
+part of this work I converted the program
+[SUPERSMART](http://supersmart-project.org/) into a series of smaller packages in R -- a project called 
 ["supersmartR"](#supersmartr).
-Prior to this position, I did a PhD at
-[Imperial College London](https://www.imperial.ac.uk/) and the
-[Zoological Society of London](https://www.zsl.org/science) where I attempted
-to re-appraise the ["living fossil"](#livingfossils) concept. In my work, I
-particularly enjoy developing software and have created a range of R and
+
+I did my PhD at [Imperial College London](https://www.imperial.ac.uk/) and the
+[Zoological Society of London](https://www.zsl.org/science) where I re-appraised
+the ["living fossil"](#livingfossils) concept.
+
+I particularly enjoy developing software and have created a range of open-source R and
 [python](https://en.wikipedia.org/wiki/Python_(programming_language))
 packages for munging and analysing biological data (from DNA to species
 records).
+</small>

@@ -1,21 +1,20 @@
-+++
-# TODO: add colours, drop rownames
-widget = "blank"
-headless = true  # This file represents a page section.
-weight = 80
+---
+widget: "blank"
+headless: true  # This file represents a page section.
+weight: 20
 
-title = "What, if anything, are \"living fossils\"?"
+title: "What, if anything, are \"living fossils\"?"
 
-[design]
+design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns: "1"
 
-[design.background]
-  image = "echidna.jpg"
-  image_darken = 0.80
-  text_color_light = true
+  background:
+    image: "echidna.jpg"
+    image_darken: 0.9
+    text_color_light: true
 
-+++
+---
 
 "Living fossil" is a term coined by Darwin often used to describe organisms
 that appear to be ancient and have changed little. The term, however, is hugely
@@ -47,7 +46,7 @@ holds key stats on over 20,000 other plants and animals. For more information
 see the paper,
 ["Quantifying the Living Fossil Concept"](https://doi.org/10.26879/750)</sup>
 
-<iframe height="550" width="100%" style="opacity: 0.90;"" src="https://dombennett.shinyapps.io/quantifying-the-living-fossil-app/"> </iframe>
+<iframe height="550" width="100%" style="opacity: 0.95;"" src="https://dombennett.shinyapps.io/quantifying-the-living-fossil-app/"> </iframe>
 
 <sub> *N.spp* = Number of species, *Age* = Time since clade split,
 *Success* = number of species relative to sister,

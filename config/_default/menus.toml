@@ -21,13 +21,13 @@
 [[main]]
   name = "supersmartR"
   parent = "Projects"
-  url = "#supersmartr"
+  url = "/projects#supersmartr"
   weight = 60
 
 [[main]]
   name = "Living fossils?"
   parent = "Projects"
-  url = "#livingfossils"
+  url = "/projects#livingfossils"
   weight = 80
 
 [[main]]

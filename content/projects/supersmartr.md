@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true  # This file represents a page section.
-weight = 60
+weight = 40
 
 title = "Towards open, modular, phylogenetic pipelines in R"
 
@@ -18,7 +18,7 @@ title = "Towards open, modular, phylogenetic pipelines in R"
 
 <img src="https://raw.githubusercontent.com/AntonelliLab/supersmartR/master/logo.png" width="200" align="right"/>
 
-As part of my post-doc I'm devising and developing an automated pipeline for generating phylogenetic trees, `supersmartR`. This new program acts as an update to [SUPERSMART](http://www.supersmart-project.org/) and is comprised of a series of independent R packages.
+As part of my post-doc I  devised and developed an automated pipeline for generating phylogenetic trees, `supersmartR`. This program acts as an update to [SUPERSMART](http://www.supersmart-project.org/) and is comprised of a series of independent R packages.
 
 All R packages developed as part of this project are aimed to be of the highest quality, and as a result they are all submitted to [ROpenSci](https://ropensci.org/) for thorough scrutiny, review and testing.
 
